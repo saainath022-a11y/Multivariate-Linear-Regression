@@ -23,8 +23,8 @@ To write a python program to implement multivariate linear regression and predic
 ## Program:
 ```
 
-Developed by: SHANKAR SB
-Register No.: 25017085
+Developed by: SAAINATH B
+Register No.: 25015015
 
 import matplotlib.pyplot as plt
 import numpy as np
@@ -80,4 +80,3 @@ Thus the multivariate linear regression is implemented and predicted the output 
 
 
 
-Thus the multivariate linear regression is implemented and predicted the output using python program.
